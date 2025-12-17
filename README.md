@@ -16,4 +16,4 @@ tative reconstructions before training. Experimental results demonstrate
  and without noisy images, highlighting the importance of effective noise
  handling in federated learning-based medical imaging.
 
- <img src="fig 1.png" alt="architecture">
+ <img src="fig 1.PNG" alt="architecture">
