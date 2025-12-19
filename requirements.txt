@@ -1,0 +1,38 @@
+# Core ML
+# NOTE: Choose a torch/torchvision build that matches your CUDA/CPU.
+# For CUDA wheels, see: https://pytorch.org/get-started/locally/
+
+torch
+torchvision
+
+# Data + utils
+numpy
+pandas
+tqdm
+Pillow
+
+# Computer vision I/O
+opencv-python-headless
+albumentations
+
+# Metrics / logging
+torchmetrics
+torchinfo
+tensorboard
+lpips
+
+# Model deps (WaveMix / wavelet / transformer helpers)
+PyWavelets
+einops
+wavemix
+
+# FID / misc scientific
+scipy
+
+# Classification utilities (used in fed_classification)
+scikit-learn
+matplotlib
+torchsummary
+
+# MedMNIST datasets (e.g., PathMNIST with size=224)
+medmnist
