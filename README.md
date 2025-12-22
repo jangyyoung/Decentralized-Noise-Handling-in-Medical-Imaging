@@ -1,7 +1,6 @@
 # Decentralized-Noise-Handling-in-Medical-Imaging
 Noise in medical imaging is an inevitable challenge, often
- stemming from acquisition artifacts, varying imaging protocols, and ex
-ternal interference. While some studies suggest that noise can enhance
+ stemming from acquisition artifacts, varying imaging protocols, and external interference. While some studies suggest that noise can enhance
  model robustness, excessive or unstructured noise degrades training qual
 ity and classification performance. This issue is further exacerbated in
  federated learning settings, where individual clients have limited local
