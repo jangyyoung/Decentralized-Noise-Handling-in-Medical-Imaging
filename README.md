@@ -22,6 +22,9 @@ Noise in medical imaging is an inevitable challenge caused by acquisition artifa
 ## 🏗 System Architecture
 The proposed method utilizes an encoder-decoder framework specifically optimized for federated reconstruction tasks.
 
+## 📎 Citation
+If you use this work, please cite the corresponding paper (to be added).
+
 <img src="fig 1.PNG" alt="architecture" width="800">
 
 ## 📊 Experimental Results
