@@ -24,3 +24,4 @@ This repository presents a Federated Imputation framework designed to address no
 This study proposes a novel encoder-decoder-based federated imputation method that replaces noisy medical images with high-quality reconstructions, significantly enhancing classification performance in decentralized learning environments.
 
 <img src="fig 1.PNG" alt="architecture" width="800">
+
