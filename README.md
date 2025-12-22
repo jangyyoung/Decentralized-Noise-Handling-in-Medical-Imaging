@@ -22,9 +22,6 @@ Noise in medical imaging is an inevitable challenge caused by acquisition artifa
 ## 🏗 System Architecture
 The proposed method utilizes an encoder-decoder framework specifically optimized for federated reconstruction tasks.
 
-## 📎 Citation
-If you use this work, please cite the corresponding paper (to be added).
-
 <img src="fig 1.PNG" alt="architecture" width="800">
 
 ## 📊 Experimental Results
@@ -36,3 +33,6 @@ Our research demonstrates that effective noise handling in federated learning si
 - Federated Learning Framework
 - Deep Learning (Encoder-Decoder Architecture)
 - Medical Imaging Data Processing
+
+## 📎 Citation
+If you use this work, please cite the corresponding paper (to be added).
