@@ -1,6 +1,5 @@
 # Decentralized-Noise-Handling-in-Medical-Imaging
 
-## Abstract
 Noise in medical imaging is an inevitable challenge, often stemming from acquisition artifacts, varying imaging protocols, and external interference. While some studies suggest that noise can enhance model robustness, excessive or unstructured noise degrades training quality and classification performance. 
 
 This issue is further exacerbated in **federated learning (FL)** settings, where individual clients have limited local data, making it difficult to train robust models independently. Federated imputation has been explored as a solution, yet existing methods do not fully leverage federated learning settings for optimal noise reconstruction. 
